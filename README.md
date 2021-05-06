@@ -1,5 +1,4 @@
 # geforce-armas
-comando de armas bem simples
 
 RECOMENDAÇÃO: coloque o código "server.lua" em seu vrp_admin, não testei esse código sozinho porem deve estar funcionando
 
